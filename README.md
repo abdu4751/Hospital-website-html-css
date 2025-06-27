@@ -35,5 +35,5 @@ It includes basic sections like:
 
 ## 📸 Preview
 
-![Hospital Website Screenshot](./i[mages/preview.png](https://github.com/abdu4751/Hospital-website-html-css/blob/2b8b5fc7a14cd8204313355b7efc2c763102d541/Screenshot%20of%20Project/Screenshot%20No%231.jpg)) 
+![Hospital Website Screenshot](https://github.com/abdu4751/Hospital-website-html-css/blob/2b8b5fc7a14cd8204313355b7efc2c763102d541/Screenshot%20of%20Project/Screenshot%20No%231.jpg) 
 ## 📁 Folder Structure
