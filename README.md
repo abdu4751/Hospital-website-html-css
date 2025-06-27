@@ -33,4 +33,7 @@ It includes basic sections like:
 - [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-459926199/) 
 
 
-![Hospital Website Preview]([https://github.com/abdu4751/Hospital-website-html-css/blob/main/images/preview.png](https://github.com/abdu4751/Hospital-website-html-css/blob/24968385796b7663cd57a75f969e7c2b9dec53a0/Screenshot%20of%20Project/Screenshot%20No%231.jpg))
+## 📸 Preview
+
+![Hospital Website Screenshot](./i[mages/preview.png](https://github.com/abdu4751/Hospital-website-html-css/blob/2b8b5fc7a14cd8204313355b7efc2c763102d541/Screenshot%20of%20Project/Screenshot%20No%231.jpg)) 
+## 📁 Folder Structure
